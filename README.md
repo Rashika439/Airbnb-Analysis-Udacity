@@ -1,9 +1,7 @@
 # Airbnb
 
-## DataScience_BlogPost
-
 ### Motivation: 
-This project is my first data science project to help me get started with the workflow and posting. I chose[_Seattle_](https://www.kaggle.com/airbnb/seattle/version/2#listings.csv) and [_Boston_ ](https://www.kaggle.com/airbnb/boston) open data as database and did analysis on affecting factors of listing price and customer rating. 
+For this project I choose [_Seattle_](https://www.kaggle.com/airbnb/seattle/version/2#listings.csv) and [_Boston_ ](https://www.kaggle.com/airbnb/boston) data which were opensource data and performed analysis on affecting factors of listing price and customer rating of Airbnb. 
 
 ### Files:
 - Main.ipynb: the python notebook that realize the main function 
